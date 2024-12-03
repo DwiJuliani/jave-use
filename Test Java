@@ -1,0 +1,8 @@
+public class testJava {
+    public static void main (String [] args){
+        int variabelA;
+        variabelA = 1;
+        int variabelA = 1;
+        system.out.printIn ("Nilai dari variabel = " + variabelA);
+    }
+}
